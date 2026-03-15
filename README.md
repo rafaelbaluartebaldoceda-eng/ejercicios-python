@@ -1,7 +1,9 @@
 # 🐍 Ejercicios Python - Programación Orientada a Objetos
 
 ## 📋 Descripción
-Colección de ejercicios prácticos de Python desarrollados como parte del aprendizaje de backend development. Cubre conceptos fundamentales de POO y manejo de errores.
+Colección de ejercicios prácticos de Python desarrollados como parte del 
+aprendizaje de backend development y la certificación **Scientific Computing 
+with Python** de freeCodeCamp.
 
 ## 📁 Contenido
 | Archivo | Descripción |
