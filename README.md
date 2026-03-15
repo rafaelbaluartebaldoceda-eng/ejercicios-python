@@ -9,6 +9,7 @@ with Python** de freeCodeCamp.
 | Archivo | Descripción |
 |---|---|
 | `practica poo.py` | Simulador de sistema de correo electrónico |
+| `aplicacion.py` | Aplicación de presupuesto por categorías |
 
 ## 🧠 Conceptos aplicados
 - Clases y objetos
@@ -16,6 +17,9 @@ with Python** de freeCodeCamp.
 - Manejo de errores (TypeError, ValueError)
 - Métodos especiales (`__str__`, `__init__`)
 - Módulo `datetime`
+- Listas y diccionarios
+- Formateo de strings
+- Gráficos de barras en consola
 
 ## 🛠 Tecnologías
 - Python

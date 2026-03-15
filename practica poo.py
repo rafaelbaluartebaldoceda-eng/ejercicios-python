@@ -15,7 +15,7 @@ class Email:
     def display_full_email(self):
         self.mark_as_read()
         print('\n--- Email ---')
-        print(f'From: {self.sender.name}')
+        print(f'From: {self.sender.name}')  
         print(f'To: {self.receiver.name}')
         print(f'Subject: {self.subject}')
         print(f"Received: {self.timestamp.strftime('%Y-%m-%d %H:%M')}")
