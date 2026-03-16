@@ -12,11 +12,13 @@ with Python** de freeCodeCamp.
 | `aplicacion.py` | Aplicación de presupuesto por categorías |
 | `rastreador de salario.py` | Rastreador de salarios con properties y setters |
 | `rastreador de estadisticas de personaje.py` | Rastreador de estadísticas de personaje de juego |
+| `catalogo de multimedia.py` | Catálogo de películas y series con herencia y polimorfismo |
 
 ## 🧠 Conceptos aplicados
 - Clases y objetos
-- Herencia y encapsulamiento
-- Manejo de errores (TypeError, ValueError)
+- Herencia y polimorfismo
+- Encapsulamiento
+- Manejo de errores (TypeError, ValueError, excepciones personalizadas)
 - Métodos especiales (`__str__`, `__init__`, `__repr__`)
 - Módulo `datetime`
 - Listas y diccionarios
@@ -24,6 +26,7 @@ with Python** de freeCodeCamp.
 - Gráficos de barras en consola
 - Properties y setters
 - Atributos de clase vs instancia
+- Docstrings
 
 ## 🛠 Tecnologías
 - Python 3.x
@@ -34,6 +37,7 @@ python "practica poo.py"
 python "aplicacion.py"
 python "rastreador de salario.py"
 python "rastreador de estadisticas de personaje.py"
+python "catalogo de multimedia.py"
 ```
 
 ## 📈 Progreso
