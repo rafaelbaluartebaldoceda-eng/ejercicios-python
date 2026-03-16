@@ -10,17 +10,19 @@ with Python** de freeCodeCamp.
 |---|---|
 | `practica poo.py` | Simulador de sistema de correo electrónico |
 | `aplicacion.py` | Aplicación de presupuesto por categorías |
+| `rastreador de salario.py` | Rastreador de salarios con properties y setters |
 
 ## 🧠 Conceptos aplicados
 - Clases y objetos
 - Herencia y encapsulamiento
 - Manejo de errores (TypeError, ValueError)
-- Métodos especiales (`__str__`, `__init__`)
+- Métodos especiales (`__str__`, `__init__`, `__repr__`)
 - Módulo `datetime`
 - Listas y diccionarios
 - Formateo de strings
 - Gráficos de barras en consola
-
+- Properties y setters
+- Atributos de clase vs instancia
 ## 🛠 Tecnologías
 - Python
 
@@ -28,6 +30,7 @@ with Python** de freeCodeCamp.
 ```bash
 python "practica poo.py"
 python "aplicacion.py"
+python "rastreador de salarios.py"
 ```
 
 ## 📈 Progreso
