@@ -27,6 +27,7 @@ with Python** de freeCodeCamp.
 ## ▶️ Cómo ejecutar
 ```bash
 python "practica poo.py"
+python "aplicacion.py"
 ```
 
 ## 📈 Progreso
