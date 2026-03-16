@@ -11,6 +11,7 @@ with Python** de freeCodeCamp.
 | `practica poo.py` | Simulador de sistema de correo electrónico |
 | `aplicacion.py` | Aplicación de presupuesto por categorías |
 | `rastreador de salario.py` | Rastreador de salarios con properties y setters |
+| `rastreador de estadisticas de personaje.py` | Rastreador de estadísticas de personaje de juego |
 
 ## 🧠 Conceptos aplicados
 - Clases y objetos
@@ -23,14 +24,16 @@ with Python** de freeCodeCamp.
 - Gráficos de barras en consola
 - Properties y setters
 - Atributos de clase vs instancia
+
 ## 🛠 Tecnologías
-- Python
+- Python 3.x
 
 ## ▶️ Cómo ejecutar
 ```bash
 python "practica poo.py"
 python "aplicacion.py"
-python "rastreador de salarios.py"
+python "rastreador de salario.py"
+python "rastreador de estadisticas de personaje.py"
 ```
 
 ## 📈 Progreso
