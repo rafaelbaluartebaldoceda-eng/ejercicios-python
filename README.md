@@ -14,15 +14,18 @@ with Python** de freeCodeCamp.
 | `rastreador de estadisticas de personaje.py` | Rastreador de estadísticas de personaje de juego |
 | `catalogo de multimedia.py` | Catálogo de películas y series con herencia y polimorfismo |
 | `calculador de descuentos.py` | Calculador de descuentos con abstracción y polimorfismo |
+| `interfaz de player.py` | Interfaz de jugador con clases abstractas y herencia |
 
 ## 🧠 Conceptos aplicados
 - Clases y objetos
 - Herencia y polimorfismo
 - Encapsulamiento
 - Abstracción con clases abstractas (ABC)
+- Interfaces con métodos abstractos
 - Manejo de errores (TypeError, ValueError, excepciones personalizadas)
 - Métodos especiales (`__str__`, `__init__`, `__repr__`)
 - Módulo `datetime`
+- Módulo `random`
 - Listas y diccionarios
 - Formateo de strings
 - Gráficos de barras en consola
@@ -41,6 +44,7 @@ python "rastreador de salario.py"
 python "rastreador de estadisticas de personaje.py"
 python "catalogo de multimedia.py"
 python "calculador de descuentos.py"
+python "interfaz de player.py"
 ```
 
 ## 📈 Progreso
