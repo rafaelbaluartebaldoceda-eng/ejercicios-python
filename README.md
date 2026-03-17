@@ -13,11 +13,13 @@ with Python** de freeCodeCamp.
 | `rastreador de salario.py` | Rastreador de salarios con properties y setters |
 | `rastreador de estadisticas de personaje.py` | Rastreador de estadísticas de personaje de juego |
 | `catalogo de multimedia.py` | Catálogo de películas y series con herencia y polimorfismo |
+| `calculador de descuentos.py` | Calculador de descuentos con abstracción y polimorfismo |
 
 ## 🧠 Conceptos aplicados
 - Clases y objetos
 - Herencia y polimorfismo
 - Encapsulamiento
+- Abstracción con clases abstractas (ABC)
 - Manejo de errores (TypeError, ValueError, excepciones personalizadas)
 - Métodos especiales (`__str__`, `__init__`, `__repr__`)
 - Módulo `datetime`
@@ -38,6 +40,7 @@ python "aplicacion.py"
 python "rastreador de salario.py"
 python "rastreador de estadisticas de personaje.py"
 python "catalogo de multimedia.py"
+python "calculador de descuentos.py"
 ```
 
 ## 📈 Progreso
