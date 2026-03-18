@@ -15,6 +15,8 @@ with Python** de freeCodeCamp.
 | `catalogo de multimedia.py` | Catálogo de películas y series con herencia y polimorfismo |
 | `calculador de descuentos.py` | Calculador de descuentos con abstracción y polimorfismo |
 | `interfaz de player.py` | Interfaz de jugador con clases abstractas y herencia |
+| `calculador de area de poligonos.py` | Proyecto de certificación POO - calculador de área de polígonos |
+| `validador de datos medicos.py` | Validador de registros médicos con diccionarios, regex y módulos |
 
 ## 🧠 Conceptos aplicados
 - Clases y objetos
@@ -26,12 +28,16 @@ with Python** de freeCodeCamp.
 - Métodos especiales (`__str__`, `__init__`, `__repr__`)
 - Módulo `datetime`
 - Módulo `random`
+- Módulo `re` (expresiones regulares)
 - Listas y diccionarios
+- Comprensiones de listas con filtros
 - Formateo de strings
 - Gráficos de barras en consola
 - Properties y setters
 - Atributos de clase vs instancia
 - Docstrings
+- Subclases y sobreescritura de métodos
+- Validación de datos
 
 ## 🛠 Tecnologías
 - Python 3.x
@@ -45,6 +51,8 @@ python "rastreador de estadisticas de personaje.py"
 python "catalogo de multimedia.py"
 python "calculador de descuentos.py"
 python "interfaz de player.py"
+python "calculador de area de poligonos.py"
+python "validador de datos medicos.py"
 ```
 
 ## 📈 Progreso
